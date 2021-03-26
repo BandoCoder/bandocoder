@@ -12,6 +12,6 @@ JavaScript, React, Node.js, jQuery, HTML5, CSS, a11y, NPM, Express, Postgres, Gi
 
 ### Links
 
-[LinkedIn]https://www.linkedin.com/in/bradfordbossen/
+[Linked In]https://www.linkedin.com/in/bradfordbossen/
 
-[Portfolio]https://bandocoder.github.io/Portfolio-for-Thinkful-Project-10.13.2020/
+[Portfolio Page]https://bandocoder.github.io/Portfolio-for-Thinkful-Project-10.13.2020/
